@@ -3,8 +3,6 @@ Wordup CLI
 
 [![Version](https://img.shields.io/npm/v/wordup-cli.svg)](https://npmjs.org/package/wordup-cli)
 [![Downloads/week](https://img.shields.io/npm/dw/wordup-cli.svg)](https://npmjs.org/package/wordup-cli)
-[![Twitter Follow](https://img.shields.io/twitter/follow/wordup_dev.svg?label=%40wordup_dev&style=social)](https://twitter.com/wordup_dev)
-
 
 Wordup CLI is an open-source development toolkit for setting up and managing your local WordPress Theme/Plugin development, so that you can totally focus on coding.
 
@@ -44,11 +42,6 @@ $ npm install -g wordup-cli
 ```
 
 After installing wordup-cli, you can create your first project with `wordup init`
-
-# Documentation
-
-For detailed information visit [docs.wordup.dev](https://docs.wordup.dev)
-
 
 # Usage
 <!-- usage -->
