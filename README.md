@@ -33,8 +33,6 @@ What you can do with wordup-cli:
 
 # Installation / Requirements 
 
-Make sure you have node >= 8.3 (npm >= 5.2) and [docker-compose](https://www.docker.com/get-started) installed on your machine. 
-
 We recommend to install wordup-cli **globally**: 
 
 ```sh
