@@ -86,11 +86,11 @@
     }
   },
   "scripts": {
-    "postpack": "rm -f oclif.manifest.json",
+    "postpack": "rm -f npx oclif.manifest.json",
     "posttest": "eslint .",
-    "prepack": "oclif manifest && oclif readme",
+    "prepack": "npx oclif manifest && npx oclif readme",
     "test": "nyc mocha --forbid-only \"test/**/*.test.js\"",
-    "version": "oclif readme && git add README.md",
+    "version": "npx oclif readme && git add README.md",
     "postversion": "git push && git push --tags"
   }
 }
